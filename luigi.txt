@@ -1,5 +1,10 @@
 Hermano del personaje principal
+<<<<<<< HEAD
 
 
 Es más alto que mario
 Tiene el bigote más grande
+=======
+Tiene ropa verde
+Es mas flaco que Mario
+>>>>>>> 64d786210fb8c18fd539eb046cc63144190eb3f1
